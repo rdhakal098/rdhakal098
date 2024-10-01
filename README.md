@@ -1,2 +1,1 @@
-
-![](https://raw.githubusercontent.com/rdhakal098/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=rdhakal098&show_icons=true&theme=radical)
